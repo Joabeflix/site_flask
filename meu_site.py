@@ -1,6 +1,5 @@
 from flask import Flask, render_template
 
-# teste attt
 
 app = Flask(__name__)
 
